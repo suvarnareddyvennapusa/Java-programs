@@ -1,4 +1,3 @@
- Importing basic required classes
 import java.io.*;
 import java.util.*;
 class GFG {
